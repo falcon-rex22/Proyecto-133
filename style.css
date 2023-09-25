@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://i.pinimg.com/736x/11/6c/c5/116cc5c9457f82dbfcdbb2c7961d083b.jpg");
+    background-repeat: no-repeat;
+    background-size: 900px;
+    background-position-x: center;
+    background-position-y: 50px;
+}
+
+h1{
+    background-color: red;
+    color: black;
+    width: 800px;
+}
+
+button{
+    background-color: goldenrod;
+    color: green;
+    width: 400px;
+}
+
+#secreto{
+    background-color: black;
+    color: red;
+    width: 50px;
+    position: fixed;
+    bottom: 0;
+}

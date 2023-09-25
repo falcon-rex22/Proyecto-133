@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://e0.pxfuel.com/wallpapers/1021/585/desktop-wallpaper-the-flash-vs-the-reverse-flash-cwtv-comicwalls-reverse-flash-iphone.jpg");
+    background-repeat: no-repeat;
+    background-size: 600px;
+    background-position-x: center;
+    background-position-y: -30px;
+}
+
+h1{
+    background-color: yellow;
+    color: red;
+    width: 400px;
+}
+
+h3{
+    background-color: red;
+    color: yellow;
+    width: 300px;
+}

@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://w0.peakpx.com/wallpaper/219/906/HD-wallpaper-the-flash-vs-zoom-flash-speeders-zoom-tv.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    background-color: yellow;
+    color: red;
+    width: 400px;
+}
+
+h3{
+    background-color: blue;
+    color: black;
+    width: 300px;
+}

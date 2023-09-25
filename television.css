@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://i.ytimg.com/vi/MbAkZApepjM/hqdefault.jpg");
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position-x: center;
+}
+
+h1{
+    background-color: yellow;
+    color: red;
+    width: 400px;
+}
+
+h3{
+    background-color: red;
+    color: white;
+    width: 300px;
+}
